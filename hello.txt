@@ -1,0 +1,30 @@
+woaizhongguo
+
+woaizhongguo
+woaizhongguo
+woaizhongguo
+
+woaizhongguo
+woaizhongguo
+
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+hello.txt[+] [unix] (07:59 01/01/1970)                                   5,1 All
+-- INSERT --
+:wq
+
