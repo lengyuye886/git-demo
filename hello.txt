@@ -272,7 +272,12 @@ asdasdasdasdsadasd
 
 asdasdasdasdsadasd
 
+<sdasdasd<<<<<< HEAD
 asdasdasdasdsadasaddasd 胡海东喜欢王惜月
 :wq
 
 
+=======
+asdasdasdasdsadasd
+ 王惜月喜欢胡海东
+>>>>>>> hot-fix
